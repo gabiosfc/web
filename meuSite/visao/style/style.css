@@ -24,7 +24,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/img/praia.jpg);
+    background-image: url(./visao/img/praia.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -102,4 +102,64 @@ header {
     font-size: 18px;
     font-weight: bold;
     cursor: pointer;
+}
+
+.carrosel-img {
+    width: 432px;
+    height: 306.72px;
+    margin-bottom: 40px;
+}
+
+.carrosel-item.active {
+    display: flex;
+    width: 100%;
+    gap: 50px;
+    justify-content: space-evenly;
+}
+
+.carrosel-item img {
+    position: relative;
+    padding-left: 25px;
+}
+
+.sobre {
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    font-size: 15px;
+}
+
+.sobre h1 {
+    color: #C47F38;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    /* 100% */
+    margin-bottom: 20px;
+}
+
+.sobre p {
+    align-items: center;
+    font-size: 15px;
+    width: 800px;
+}
+
+footer {
+    background: #EBDED4;
+}
+
+.section-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.h1-footer {
+    margin-top: 20px;
+    font-size: 20px;
 }
