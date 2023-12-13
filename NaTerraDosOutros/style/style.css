@@ -1,0 +1,105 @@
+header {
+    background-color: #EFEBE5;
+    height: 400px;
+}
+
+.icons-header {
+    color: #C47F38;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.icons-header p,
+.link-custom {
+    font-family: 'Arimo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #C47F38;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+.box-titulo-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(visao/img/praia.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+}
+
+.box-titulo-principal h1 {
+    color: #FFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+}
+
+.icons-header ul {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.container-img img {
+    border-radius: 15px;
+    width: 200px;
+    height: 250px;
+}
+
+.section-container {
+    background-color: #EAD6BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.conteudo-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EBDED4;
+    border-radius: 15px;
+    padding: 20px 25px;
+    margin-right: 200px;
+    gap: 80px;
+}
+
+.container-quem-somos {
+    width: 500px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.container-quem-somos h2 {
+    font-family: 'Arimo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    color: #C47F38;
+}
+
+.box-botoes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-botoes button {
+    width: 200px;
+    height: 50px;
+    background-color: #C47F38;
+    border: none;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 8px;
+    font-family: 'Arimo', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
