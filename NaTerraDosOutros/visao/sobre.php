@@ -1,7 +1,7 @@
 <section class="section-container">
     <div class="conteudo-principal">
         <div class="container-img">
-            <img src="./img/img-carro.jpg">
+            <img src="visao/img/img-carro.jpg">
         </div>
 
         <div class="container-quem-somos">

@@ -16,7 +16,7 @@
 
 				$imagemNome = $_FILES["imagem"]["name"];
 				$imagemCaminhoTemporario = $_FILES["imagem"]["tmp_name"];
-				move_uploaded_file($imagemCaminhoTemporario, "img/{$imagemNome}");
+				move_uploaded_file($imagemCaminhoTemporario, "./visao/img/{$imagemNome}");
 				
 				$c->setImagem("img/{$imagemNome}");
 

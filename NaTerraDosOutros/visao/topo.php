@@ -12,16 +12,16 @@
         <div class="icons-header">
             <ul>
                 <li>
-                    <a href="https://api.whatsapp.com/send?phone=5534999711326" target="_blank"><img src="img/whatsapp.png" alt="WhatsApp"></a>
+                    <a href="https://api.whatsapp.com/send?phone=5534999711326" target="_blank"><img src="visao/img/whatsapp.png" alt="WhatsApp"></a>
                 </li>
                 <li>
-                    <a href="https://instagram.com/naterradosoutros?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="img/instagram.png" alt="Instagram"></a>
+                    <a href="https://instagram.com/naterradosoutros?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="visao/img/instagram.png" alt="Instagram"></a>
                 </li>
                 <li>
-                    <a href="https://m.facebook.com/profile.php/?id=100014121481150&name=xhp_nt__fb__action__open_user" target="Facebook"><img src="img/facebook.png" alt="Facebook"></a>
+                    <a href="https://m.facebook.com/profile.php/?id=100014121481150&name=xhp_nt__fb__action__open_user" target="Facebook"><img src="visao/img/facebook.png" alt="Facebook"></a>
                 </li>
                 <li>
-                    <a href="mailto:naterradosoutros@gmail.com" target="_blank"><img src="img/o-email.png" alt="E-mail"></a>
+                    <a href="mailto:naterradosoutros@gmail.com" target="_blank"><img src="visao/img/o-email.png" alt="E-mail"></a>
                 </li>
             </ul>
             <p>
